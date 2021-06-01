@@ -3,9 +3,9 @@
 Welcome to my profile, be my guest. <br>
 Everybody calls me **Toka**, but my real name is **Renan Tokashiki**.
 
-- Currently doing **systems for internet** at the federal institute of Mato Grosso - IFMT.
+- Currently doing **Systems for Internet** at the Federal Institute of Mato Grosso - IFMT.
 
-- I'm working on the state government of Mato Grosso as an intern in **full-stack development**.
+- I'm working on the State Government of Mato Grosso as an intern in **Full-stack Development**.
 
 - My free time activities are playing **FPS** and **Puzzle games**, and streaming *sometimes*. (I do prefer co-op/multiplayer games instead of single player).
 
