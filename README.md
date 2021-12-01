@@ -3,9 +3,7 @@
 Welcome to my profile, be my guest. <br>
 Everybody calls me **Toka**, but my real name is **Renan Tokashiki**.
 
-- Currently doing **Systems for Internet** at the Federal Institute of Mato Grosso - IFMT.
-
-- I'm working on the State Government of Mato Grosso as an intern in **Full-stack Development**.
+- Currently working at Apllos as Software develor **Full-stack Development**.
 
 - My free time activities are playing **FPS** and **Puzzle games**, and streaming *sometimes*. (I do prefer co-op/multiplayer games instead of single player).
 
@@ -36,9 +34,6 @@ Everybody calls me **Toka**, but my real name is **Renan Tokashiki**.
   </a>
   <a href="https://www.instagram.com/renantoka/" target="_blank">
     <img alt="Tokashiki Instagram" height="35px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-128.png" />
-  </a>
-  <a href="https://www.twitter.com/renantoka/" target="_blank">
-    <img alt="Tokashiki Twitter" height="35px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_6-twitter-256.png" />
   </a>
   <a href="https://www.twitch.tv/renantoka/" target="_blank">
     <img alt="Tokashiki Twitch" height="35px" src="https://cdn0.iconfinder.com/data/icons/brands-flat-2/200/twitch-social-network-brand-logo-256.png" />
