@@ -3,7 +3,7 @@
 Welcome to my profile, be my guest. <br>
 Everybody calls me **Toka**, but my real name is **Renan Tokashiki**.
 
-- Currently working at Apllos as Software develor **Full-stack Development**.
+- Currently working at Apllos as Software developer **Full-stack Development**.
 
 - My free time activities are playing **FPS** and **Puzzle games**, and streaming *sometimes*. (I do prefer co-op/multiplayer games instead of single player).
 
